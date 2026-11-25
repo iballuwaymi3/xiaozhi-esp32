@@ -13,7 +13,6 @@
             "name": "sagnoon-ar",
             "sdkconfig_append": [
                 "CONFIG_USE_WECHAT_MESSAGE_STYLE=y",
-                "CONFIG_LANGUAGE_AR_SA=y",
                 "CONFIG_LV_USE_ARABIC_PERSIAN_CHARS=y",
                 "CONFIG_LV_USE_BIDI=y",
                 "CONFIG_LV_BIDI_DIR_AUTO=y",
